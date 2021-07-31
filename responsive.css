@@ -1,0 +1,29 @@
+@media screen and (max-width: 774px) {
+
+    #country{
+        float: none;
+        display: table;
+        margin: 0 auto;
+    }
+
+    #left-links{
+        float: none;
+        display: table;
+        margin: 0 auto;
+    }
+
+    #right-links{
+        float: none;
+        display: table;
+        margin: 0 auto;
+    }
+
+    #footer{
+        height: 120px;
+    }
+
+    #container form{
+        width: 100px;
+    }
+
+}
